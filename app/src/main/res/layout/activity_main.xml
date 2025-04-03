@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="8dp"
+    android:background="@color/background">
+
+    <!-- Chronometer Display -->
+    <Chronometer
+        android:id="@+id/chronometer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_chrono_large"
+        android:padding="10dp"
+        android:textColor="@color/chronometer_text"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- Start Button -->
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:text="@string/start"
+        android:textSize="10sp"
+        android:background="@drawable/rounded_button_start"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="4dp"/>
+
+    <!-- Stop Button -->
+    <Button
+        android:id="@+id/stopButton"
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:text="@string/stop"
+        android:textSize="10sp"
+        android:background="@drawable/rounded_button_stop"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="4dp"
+        android:enabled="false"/>
+
+    <!-- Reset Button -->
+    <Button
+        android:id="@+id/resetButton"
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:text="@string/reset"
+        android:textSize="10sp"
+        android:background="@drawable/rounded_button_reset"
+        android:textColor="@android:color/white"
+        android:enabled="false"/>
+</LinearLayout>

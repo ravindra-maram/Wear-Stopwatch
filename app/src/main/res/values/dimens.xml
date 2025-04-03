@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="text_size_chrono_large">24sp</dimen> <!-- Larger text for Chronometer -->
+    <dimen name="margin_bottom_chrono">18dp</dimen> <!-- Proper spacing for Chronometer -->
+</resources>
