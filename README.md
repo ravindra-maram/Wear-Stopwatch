@@ -6,9 +6,9 @@ A lightweight, visually appealing **Stopwatch App** built specifically for **Wea
 
 ## 📸 Screenshots
 
-| Running Timer | Stopped Timer        | Reset Timer |
-|---------------|----------------------|-------------|
-| ![Running](img2.png) | ![Stopped](img3.png) | ![Reset](img5.png) |
+| Running Timer               | Stopped Timer               | Reset Timer               |
+|-----------------------------|-----------------------------|---------------------------|
+| ![Running](assets/img2.png) | ![Stopped](assets/img3.png) | ![Reset](assets/img5.png) |
 
 ---
 
