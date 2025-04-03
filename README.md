@@ -6,11 +6,9 @@ A lightweight, visually appealing **Stopwatch App** built specifically for **Wea
 
 ## 📸 Screenshots
 
-| Running Timer | Stopped Timer | Reset Timer |
-|---------------|---------------|-------------|
-| ![Running](img2.png) | ![Stopped](img4.png) | ![Reset](img5.png) |
-
-> Make sure these images (`img2.png`, `img4.png`, `img5.png`) are in your repository root or adjust paths accordingly.
+| Running Timer | Stopped Timer        | Reset Timer |
+|---------------|----------------------|-------------|
+| ![Running](img2.png) | ![Stopped](img3.png) | ![Reset](img5.png) |
 
 ---
 
@@ -116,17 +114,8 @@ defaultConfig {
 
 ## 🙋‍♂️ Author
 
-**Name:** Ravindra Reddy Maram  
-**Program:** Mobile Solutions Development  
-**Institution:** Conestoga College  
-**Assignment:** Assignment 1 - Android Wear Stopwatch  
-**Submitted On:** October 15, 2023
+**Name:** Ravindra Reddy Maram
 
----
-
-## 📘 Academic Integrity
-
-> This project is my own original work. No part of the code is copied or reused from online repositories or classmates. This submission complies with all academic integrity guidelines of Conestoga College.
 
 ---
 
